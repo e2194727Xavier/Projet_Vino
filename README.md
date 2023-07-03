@@ -1,4 +1,4 @@
-# Vino
+# Vino ALLO
 
  **Note importante : ceci est une version du projet incomplète, un membre de l'équipe va compléter ce qu'il manque. Entre temps, vous pouvez quand même faire l'installation**
  
